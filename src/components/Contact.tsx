@@ -112,7 +112,7 @@ const Contact = () => {
       title: "GitHub",
       value: (
         <a
-          href="https://github.com/pawanyadayananda"
+          href="https://github.com/pawanya-dayananda"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-gray-300 transition-colors duration-300 text-xl"
