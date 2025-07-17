@@ -36,7 +36,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/in/pawanya-dayananda-a1250823a" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
                 <Linkedin size={36} />
               </a>
-              <a href="https://github.com/pawanyadayananda" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
+              <a href="https://github.com/pawanya-dayananda" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
                 <Github size={36} />
               </a>
               <a href="#contact" className="inline-flex items-center space-x-2 text-gray-400 hover:text-purple-400 transition-colors">
