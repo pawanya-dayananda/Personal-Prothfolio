@@ -30,10 +30,12 @@ const Hero = () => {
                 Project Manager &  Designer
               </p>
               <p className="text-xl sm:text-2xl lg:text-xl text-gray-600 max-w-4xl leading-relaxed">
-                Creative designer passionate about crafting beautiful user
-                experiences and visual designs. I collaborate with teams to
-                bring innovative ideas to life through thoughtful design
-                solutions.
+                Project Manager passionate about crafting exceptional 
+                user experiences and delivering impactful projects. I 
+                lead and collaborate with cross-functional teams to bring 
+                innovative ideas to life through strategic planning, clear 
+                communication, and thoughtful design-driven solutions.
+              </p>
               </p>
 
               {/* Action Buttons */}
@@ -95,7 +97,7 @@ const Hero = () => {
       >
         <ArrowDown size={48} />
       </button>
-    </section>
+    </section>                                                                 
   );
 };
 
