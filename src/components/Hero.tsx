@@ -19,7 +19,7 @@ const Hero = () => {
         <div className="animate-fade-in">
           <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 xl:gap-32 items-center">
             {/* Text Content */}
-            <div className="text-center lg:text-left space-y-10">
+            <div className="text-center lg:text-left space-y-8">
               <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl 2xl:text-3xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent leading-tight">
                 I'm
               </h1>
@@ -39,7 +39,7 @@ const Hero = () => {
               </p>
 
               {/* Action Buttons */}
-              <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-2 pt-4">
+              <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4 pt-6">
                 {/* Download CV Button */}
                 <a
                   href="/cv.jpg"
@@ -50,7 +50,7 @@ const Hero = () => {
                     size="lg"
                     className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white transition-all duration-300 font-medium shadow-lg hover:shadow-xl text-2xl px-8 py-4"
                   >
-                    <Download className="mr-5 h-7 w-7" />
+                    <Download className="mr-5 h-5 w-5" />
                     Download CV
                   </Button>
                 </a>
@@ -62,7 +62,7 @@ const Hero = () => {
                   className="bg-white border-2 border-purple-600 text-purple-600 hover:bg-purple-50 hover:text-purple-700 transition-all duration-300 font-medium text-2xl px-8 py-4"
                   onClick={scrollToContact}
                 >
-                  <Mail className="mr-3 h-6 w-6" />
+                  <Mail className="mr-3 h-4 w-4" />
                   Contact Me
                 </Button>
               </div>
