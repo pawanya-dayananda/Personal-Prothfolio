@@ -20,13 +20,16 @@ const Hero = () => {
           <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 xl:gap-32 items-center">
             {/* Text Content */}
             <div className="text-center lg:text-left space-y-10">
-              <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl 2xl:text-9xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent leading-tight">
+              <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl 2xl:text-2xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent leading-tight">
+                I'm
+              </h1>
+              <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl 2xl:text-6xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent leading-tight">
                 Pawanya Dayananda
               </h1>
-              <p className="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl text-gray-700 font-medium">
-                UI/UX Designer & Graphic Designer
+              <p className="text-2xl sm:text-3xl lg:text-3xl xl:text-5xl text-gray-700 font-medium">
+                Project Manager &  Designer
               </p>
-              <p className="text-xl sm:text-2xl lg:text-3xl text-gray-600 max-w-4xl leading-relaxed">
+              <p className="text-xl sm:text-2xl lg:text-2xl text-gray-600 max-w-4xl leading-relaxed">
                 Creative designer passionate about crafting beautiful user
                 experiences and visual designs. I collaborate with teams to
                 bring innovative ideas to life through thoughtful design
@@ -34,7 +37,7 @@ const Hero = () => {
               </p>
 
               {/* Action Buttons */}
-              <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-6 pt-8">
+              <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4 pt-6">
                 {/* Download CV Button */}
                 <a
                   href="/cv.jpg"
