@@ -36,8 +36,7 @@ const Hero = () => {
                 innovative ideas to life through strategic planning, clear 
                 communication, and thoughtful design-driven solutions.
               </p>
-              </p>
-
+              
               {/* Action Buttons */}
               <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4 pt-6">
                 {/* Download CV Button */}
