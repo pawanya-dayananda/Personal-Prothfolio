@@ -1,3 +1,2 @@
 Welcome to My Portfolio
-Hi, I’m Pawanaya Thathsarani 
-A creative designer passionate about UI/UX, web design, and graphic designer. This portfolio showcases my skills, design projects, and creative work. Explore my experience, view my designs, and get in touch if you'd like to collaborate!
+Hi, I’m Pawanaya Thathsarani — a Project Manager & Designer passionate about UI/UX, web, and graphic design. This portfolio highlights my skills, creative projects, and management experience. Explore my journey in leading and designing impactful solutions, discover my design work, and feel free to connect if you’d like to collaborate!
