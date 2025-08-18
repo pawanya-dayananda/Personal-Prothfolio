@@ -3,6 +3,12 @@ import { Palette, Eye, Code } from "lucide-react";
 const About = () => {
   const skills = [
     {
+      icon: Code,
+      title: "Project Manager",
+      description: "Project Planning, Team Leadership, UI/UX Collaboration, Strategic Execution",  
+      color: "from-purple-500 to-pink-500"
+    },
+    {
       icon: Palette,
       title: "UI/UX Design",
       description: "Figma, Adobe XD, Sketch, User Research, Wireframing",
@@ -13,13 +19,8 @@ const About = () => {
       title: "Graphic Design",
       description: "Adobe Creative Suite, Branding, Logo Design, Print Design",
       color: "from-purple-500 to-pink-500"
-    },
-    {
-      icon: Code,
-      title: "Web Designer",
-      description: "HTML, CSS, JavaScript, Responsive Design, Web Accessibility",
-      color: "from-purple-500 to-pink-500"
     }
+    
   ];
 
   return (
@@ -52,13 +53,13 @@ const About = () => {
                 currently in my third year, with an expected graduation in 2027.
               </p>
               <p>
-                As a passionate UI/UX, web, and graphic designer, I specialize in creating visually engaging
-                and user-centric digital experiences. I’m proficient in tools such as Adobe Photoshop, Adobe XD,
-                Canva, Figma, and Android Studio.
+                Project Manager with a strong background in UI/UX, web, and graphic design, specializing in delivering
+                 user-centric and visually engaging digital experiences. Skilled in leading projects from concept to 
+                 completion, I collaborate with cross-functional teams to ensure innovative ideas are brought to life 
+                 through strategic planning and effective execution.
               </p>
               <p>
-                I also design a variety of visual content including posters, banners, social media graphics,
-                and marketing materials, combining creativity with strategic communication.
+                My work spans designing posters, banners, social media graphics, and marketing materials, combining creativity with strategic communication to achieve impactful results.
               </p>
               <p>
                 I thrive in collaborative environments and enjoy working with teams to solve design challenges and
@@ -73,9 +74,9 @@ const About = () => {
 
           {/* Right Column: Image */}
           <div className="flex-shrink-0 self-center lg:self-start">
-            <div className="w-80 h-80 md:w-96 md:h-80 lg:w-96 lg:h-96 overflow-hidden p-2 bg-gradient-to-r from-purple-400 to-blue-400 rounded-xl">
+            <div className="w-100 h-160 md:w-96 md:h-80 lg:w-96 lg:h-96 overflow-hidden p-2 bg-gradient-to-r from-purple-400 to-blue-400 rounded-xl">
               <img
-                src="/image1.jpg"
+                src="/image25.jpg"
                 alt="Pawanya Dayananda"
                 className="w-full h-full "
               />
