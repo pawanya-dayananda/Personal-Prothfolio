@@ -76,7 +76,7 @@ const About = () => {
           <div className="flex-shrink-0 self-center lg:self-start">
             <div className="w-100 h-160 md:w-96 md:h-80 lg:w-96 lg:h-96 overflow-hidden p-2 bg-gradient-to-r from-purple-400 to-blue-400 rounded-xl">
               <img
-                src="/image25.jpg"
+                src="/image1.jpg"
                 alt="Pawanya Dayananda"
                 className="w-full h-full "
               />
